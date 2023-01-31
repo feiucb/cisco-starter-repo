@@ -2,8 +2,8 @@ import './Banner.css';
 
 function Banner() {
     return (
-        <div class="Banner">
-            <p>Sextant!</p>
+        <div className="Banner">
+            <h1>Sextant!</h1>
         </div>
     );
 }
